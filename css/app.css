@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: sans-serif;
+}
+
+html, body {
+  height: 100%;
+  overflow: hidden;
+}
+
+html {
+  font-size: 16px;
+}
+
+body {
+  background: #221133;
+}
+
+.outer {
+  display: block;
+  margin: 60px auto;
+  padding: 20px;
+  width: 300px;
+  background: #f2f2f2;
+}
+
+h3 {
+  padding-bottom: .5rem;
+  letter-spacing: 2px;
+}
+
+.date {
+  padding-bottom: .5rem;
+  text-align: center;
+}
+
+.quote {
+  padding-bottom: .5rem;
+  letter-spacing: 1px;
+  text-align: left;
+}
+
+.author {
+  text-align: right;
+  font-style: italic;
+}

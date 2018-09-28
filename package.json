@@ -1,0 +1,17 @@
+{
+  "name": "daily-quote",
+  "version": "1.0.0",
+  "description": "A PHP PDO SQLite Daily Quote App",
+  "main": "index.php",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HendrikEduard/daily-quote.git"
+  },
+  "keywords": [
+    "PHP",
+    "PDO",
+    "SQLite"
+  ],
+  "author": "Hendrik Eduard Kuiper",
+  "license": "MIT"
+}

@@ -1,0 +1,4 @@
+Options -indexes
+<FilesMatch "\.(db)$">
+Deny from all
+</FilesMatch>
