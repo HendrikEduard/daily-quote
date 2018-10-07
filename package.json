@@ -12,6 +12,12 @@
     "PDO",
     "SQLite"
   ],
+  "require": {
+    "php": ">=7.0.0"
+ },
+ "suggest": {
+   "php": ">=7.2.6"
+ },   
   "author": "Hendrik Eduard Kuiper",
   "license": "MIT"
 }
